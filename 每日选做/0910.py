@@ -1,4 +1,3 @@
-# https://leetcode.cn/problems/destroying-asteroids/
 from typing import List
 
 

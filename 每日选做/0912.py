@@ -1,5 +1,3 @@
-# https://codeforces.com/problemset/problem/200/B
-
 n = int(input())
 input_list = [int(i) for i in input().split()]
 

@@ -1,5 +1,3 @@
-# http://cs101.openjudge.cn/pctbook/E07618/
-
 n = int(input())
 old_patients = []
 young_patients = []
