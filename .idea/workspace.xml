@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ee8f520-68ac-4233-a370-cfbd8d1b99ee" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/assignment_5/T1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment_5/T2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment_5/T3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment_5/T4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment_5/T5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment_5/T6_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment_5/T6_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Assignment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pangyouwei&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/pangyouwei/2026fall-cs101.git&quot;,
+    &quot;accountId&quot;: &quot;51e6ee48-031c-4fc7-aef4-0b44d18ff3bb&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000000000293" />
+      <entry key="S30" value="1.000061704740772" />
+      <entry key="S60" value="1.0168232351938962" />
+      <entry key="M2" value="1.4002963354731808" />
+      <entry key="M5" value="6.300348232893636" />
+      <entry key="M10" value="17.823267508267985" />
+      <entry key="M15" value="29.095942969069657" />
+      <entry key="M30" value="60.817420631507886" />
+      <entry key="H1" value="106.61252944952075" />
+      <entry key="H2" value="151.83025055862188" />
+      <entry key="H4" value="185.07028327179626" />
+      <entry key="D1" value="220.77828669978658" />
+      <entry key="W1" value="227.80098395943955" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.2172959353613094E-267" />
+      <entry key="S2" value="2.1699809198770746E-67" />
+      <entry key="S5" value="2.1606397718918542E-27" />
+      <entry key="S10" value="4.6482682494579144E-14" />
+      <entry key="S30" value="3.5955367358692406E-5" />
+      <entry key="S60" value="0.005996747854030692" />
+      <entry key="M2" value="0.07812005389946243" />
+      <entry key="M5" value="0.4136897806050009" />
+      <entry key="M10" value="0.8475597715251174" />
+      <entry key="M15" value="1.1949933823095225" />
+      <entry key="M30" value="2.33180833403321" />
+      <entry key="H1" value="4.430020394865272" />
+      <entry key="H2" value="6.765549691788829" />
+      <entry key="H4" value="8.564696940943591" />
+      <entry key="D1" value="10.540714243154596" />
+      <entry key="W1" value="10.93293914171204" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8888426811665702" />
+      <entry key="MS500" value="0.9767085289622274" />
+      <entry key="S2" value="0.9941255712940557" />
+      <entry key="S5" value="0.9976460744242679" />
+      <entry key="S10" value="0.9988223437751133" />
+      <entry key="S30" value="0.9997035906823578" />
+      <entry key="S60" value="1.0224874399986392" />
+      <entry key="M2" value="1.4770245691951391" />
+      <entry key="M5" value="6.7076578683127055" />
+      <entry key="M10" value="18.66043822104099" />
+      <entry key="M15" value="30.27893599892967" />
+      <entry key="M30" value="63.13527118655532" />
+      <entry key="H1" value="111.02926259909795" />
+      <entry key="H2" value="158.58587745853458" />
+      <entry key="H4" value="193.6287812714656" />
+      <entry key="D1" value="231.317742540334" />
+      <entry key="W1" value="238.73373694748855" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KPMF1w4sUUeVBMC4bb1wl46nae" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.T1.executor": "Run",
+    "Python.T4.executor": "Run",
+    "Python.T5.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/18900/Desktop/2026fall-cs101",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0ee8f520-68ac-4233-a370-cfbd8d1b99ee" name="更改" comment="" />
+      <created>1791454642988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791454642988</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
