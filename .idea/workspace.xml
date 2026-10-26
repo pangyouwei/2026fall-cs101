@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ee8f520-68ac-4233-a370-cfbd8d1b99ee" name="更改" comment="ini_2026.10.20">
-      <change afterPath="$PROJECT_DIR$/assignment_7/T1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment_7/T2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment_7/T3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment_7/T3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment_7/T3_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment_7/T3_math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment_7/T4_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment_7/T4_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment_7/T4_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment_7/T4_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment_7/T5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment_7/T5_better.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment_7/T6.py" afterDir="false" />
+    <list default="true" id="0ee8f520-68ac-4233-a370-cfbd8d1b99ee" name="更改" comment="2026.10.23">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_4/Assignment_4 T-primes + 贪心.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_4/Assignment_4 T-primes + 贪心.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/课件/~$202610_ADS_W06_Matrices_Sorting_Greedy.pptx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,61 +39,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000000000103944" />
-      <entry key="S10" value="1.0000032240376002" />
-      <entry key="S30" value="1.0147729320257348" />
-      <entry key="S60" value="1.1215510000403666" />
-      <entry key="M2" value="1.3606645383664968" />
-      <entry key="M5" value="3.5531645074525398" />
-      <entry key="M10" value="14.801448637255275" />
-      <entry key="M15" value="27.986192673960776" />
-      <entry key="M30" value="60.044121158217266" />
-      <entry key="H1" value="112.86486225518317" />
-      <entry key="H2" value="224.41817338420165" />
-      <entry key="H4" value="465.83653618239157" />
-      <entry key="D1" value="1563.886570275688" />
-      <entry key="W1" value="2100.2015009736933" />
+      <entry key="MS100" value="1.0000000001724603" />
+      <entry key="MS500" value="1.0161567123582065" />
+      <entry key="S2" value="1.730579571335471" />
+      <entry key="S5" value="2.6840176024288356" />
+      <entry key="S10" value="3.2427311369440157" />
+      <entry key="S30" value="3.721380682544536" />
+      <entry key="S60" value="3.8571191196494827" />
+      <entry key="M2" value="3.9299737638136727" />
+      <entry key="M5" value="4.249019695548265" />
+      <entry key="M10" value="8.126949805401132" />
+      <entry key="M15" value="15.96273230402305" />
+      <entry key="M30" value="43.26782067820015" />
+      <entry key="H1" value="95.27614416083597" />
+      <entry key="H2" value="205.81826561272467" />
+      <entry key="H4" value="445.75907987626545" />
+      <entry key="D1" value="1554.115210845024" />
+      <entry key="W1" value="2101.5494704420635" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="2.2083290453482728E-244" />
-      <entry key="S5" value="3.448462549556516E-98" />
-      <entry key="S10" value="1.8570247876398755E-49" />
-      <entry key="S30" value="5.874344506579914E-17" />
-      <entry key="S60" value="9.333447166424297E-9" />
-      <entry key="M2" value="1.4822425926321284E-4" />
-      <entry key="M5" value="0.06289517303243357" />
-      <entry key="M10" value="0.5475820694760881" />
-      <entry key="M15" value="1.1759693253748278" />
-      <entry key="M30" value="2.744662821677588" />
-      <entry key="H1" value="5.602195008586878" />
-      <entry key="H2" value="12.838115935125433" />
-      <entry key="H4" value="30.5772193906292" />
-      <entry key="D1" value="115.46833845081842" />
-      <entry key="W1" value="156.49824508162763" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="1.448548070533388E-164" />
+      <entry key="S10" value="1.203570126803464E-82" />
+      <entry key="S30" value="5.083669544785689E-28" />
+      <entry key="S60" value="2.745686973408582E-14" />
+      <entry key="M2" value="2.542282240246072E-7" />
+      <entry key="M5" value="0.00492423880488587" />
+      <entry key="M10" value="0.15321811454649326" />
+      <entry key="M15" value="0.5030794647399123" />
+      <entry key="M30" value="1.7951853600547845" />
+      <entry key="H1" value="4.530731975790492" />
+      <entry key="H2" value="11.545330451886706" />
+      <entry key="H4" value="28.996830278853835" />
+      <entry key="D1" value="114.45154844337237" />
+      <entry key="W1" value="156.30062792535466" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9659363289248456" />
-      <entry key="MS500" value="0.9930924954370359" />
-      <entry key="S2" value="0.9982686325973925" />
-      <entry key="S5" value="0.9993070930008268" />
-      <entry key="S10" value="0.9996567073699014" />
-      <entry key="S30" value="1.0146526363601607" />
-      <entry key="S60" value="1.1214735455718987" />
-      <entry key="M2" value="1.3607169656575187" />
-      <entry key="M5" value="3.6134724327812293" />
-      <entry key="M10" value="15.339467345846968" />
-      <entry key="M15" value="29.148655545460347" />
-      <entry key="M30" value="62.772791985857346" />
-      <entry key="H1" value="118.45126845802834" />
-      <entry key="H2" value="237.23966659091457" />
-      <entry key="H4" value="496.3954016135736" />
-      <entry key="D1" value="1679.3441414479885" />
-      <entry key="W1" value="2256.6976750879153" />
+      <entry key="MS100" value="0.9395227493782916" />
+      <entry key="MS500" value="1.0028686013093537" />
+      <entry key="S2" value="1.7143735998779324" />
+      <entry key="S5" value="2.6708128062848506" />
+      <entry key="S10" value="3.2342255082147373" />
+      <entry key="S30" value="3.71801288040967" />
+      <entry key="S60" value="3.8553605299593317" />
+      <entry key="M2" value="3.9290752242719553" />
+      <entry key="M5" value="4.253377192140254" />
+      <entry key="M10" value="8.277309125350854" />
+      <entry key="M15" value="16.459911609630915" />
+      <entry key="M30" value="45.05248511032364" />
+      <entry key="H1" value="99.79407647007748" />
+      <entry key="H2" value="217.34863192694814" />
+      <entry key="H4" value="474.73849717127433" />
+      <entry key="D1" value="1668.5560855487338" />
+      <entry key="W1" value="2257.8480298328873" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -267,120 +252,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="2026fall-cs101" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="2026fall-cs101" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="2026fall-cs101" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="2026fall-cs101" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="2026fall-cs101" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="2026fall-cs101" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.T5_1" />
@@ -466,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792481414351</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2026.10.23">
+      <option name="closed" value="true" />
+      <created>1792723974617</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1792723974618</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -479,6 +358,7 @@
     <MESSAGE value="2026.10.18" />
     <MESSAGE value="每日一题做到2026.10.13" />
     <MESSAGE value="ini_2026.10.20" />
-    <option name="LAST_COMMIT_MESSAGE" value="ini_2026.10.20" />
+    <MESSAGE value="2026.10.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.10.23" />
   </component>
 </project>
