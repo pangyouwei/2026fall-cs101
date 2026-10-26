@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ee8f520-68ac-4233-a370-cfbd8d1b99ee" name="更改" comment="2026.10.23">
+    <list default="true" id="0ee8f520-68ac-4233-a370-cfbd8d1b99ee" name="更改" comment="2026.10.26 ini_assignment_P">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,6 +126,7 @@
     &quot;Python.T4.executor&quot;: &quot;Run&quot;,
     &quot;Python.T5.executor&quot;: &quot;Run&quot;,
     &quot;Python.T6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pymunk_manim_collision.executor&quot;: &quot;Run&quot;,
     &quot;Python.t.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -153,7 +154,7 @@
       <recent name="C:\Users\18900\Desktop\2026fall-cs101\assignment_6" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.T2">
     <configuration name="T2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -345,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792723974618</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2026.10.26 ini_assignment_P">
+      <option name="closed" value="true" />
+      <created>1792978045659</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1792978045659</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,6 +368,7 @@
     <MESSAGE value="每日一题做到2026.10.13" />
     <MESSAGE value="ini_2026.10.20" />
     <MESSAGE value="2026.10.23" />
-    <option name="LAST_COMMIT_MESSAGE" value="2026.10.23" />
+    <MESSAGE value="2026.10.26 ini_assignment_P" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026.10.26 ini_assignment_P" />
   </component>
 </project>
