@@ -1,5 +1,5 @@
 def josephus_formula(a, b):
-    """递推（编号从1开始）"""
+    """递归（编号从1开始）"""
     if a == 1:
         return 1
     return (josephus_formula(a - 1, b) - 1 + b) % a + 1
