@@ -5,14 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ee8f520-68ac-4233-a370-cfbd8d1b99ee" name="更改" comment="2026.10.30">
-      <change afterPath="$PROJECT_DIR$/assignment_A/T4_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment_A/T5_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment_A/T5_brute.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_9/Assignment_9 11月月考.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_9/Assignment_9 11月月考.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_A/T1.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_A/T1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_A/T2.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_A/T2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_A/T3.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_A/T3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_A/T4.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_A/T4_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_A/T6.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_A/T6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_A/T5.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_A/T5_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_P/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_P/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_P/.idea/assignment_P.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_P/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_P/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_P/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_P/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_P/manim_environment_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_P/pymunk_manim_collision.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_P/pymunk_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_P/renders/manim_environment_test.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment_P/renders/multi_ball_collision.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,60 +55,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.000000000000093" />
-      <entry key="S2" value="1.0009615262942175" />
-      <entry key="S5" value="1.1146790776075495" />
-      <entry key="S10" value="1.6674377901832709" />
-      <entry key="S30" value="4.065601200010246" />
-      <entry key="S60" value="6.530914728888185" />
-      <entry key="M2" value="10.964968320280482" />
-      <entry key="M5" value="25.020517585415163" />
-      <entry key="M10" value="42.18909138822371" />
-      <entry key="M15" value="54.268872215679714" />
-      <entry key="M30" value="76.91118792301711" />
-      <entry key="H1" value="107.718415225476" />
-      <entry key="H2" value="162.3569385652755" />
-      <entry key="H4" value="254.5409389346067" />
-      <entry key="D1" value="1092.475465219191" />
-      <entry key="W1" value="3035.6239764376055" />
+      <entry key="MS500" value="1.000002118124998" />
+      <entry key="S2" value="1.0685114185742692" />
+      <entry key="S5" value="1.9236051063760695" />
+      <entry key="S10" value="3.946850467200751" />
+      <entry key="S30" value="10.79730518489413" />
+      <entry key="S60" value="16.966355416883317" />
+      <entry key="M2" value="22.968698385828628" />
+      <entry key="M5" value="31.31094857810627" />
+      <entry key="M10" value="40.78354082652927" />
+      <entry key="M15" value="50.21927974911974" />
+      <entry key="M30" value="75.98905320615157" />
+      <entry key="H1" value="108.03546336075753" />
+      <entry key="H2" value="137.7647574497939" />
+      <entry key="H4" value="184.59099990186508" />
+      <entry key="D1" value="940.9484319391308" />
+      <entry key="W1" value="3062.531098011141" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="3.399276169146555E-122" />
-      <entry key="MS500" value="5.084839976560715E-25" />
-      <entry key="S2" value="8.444459736254587E-7" />
-      <entry key="S5" value="0.0037600684772182745" />
-      <entry key="S10" value="0.06958262740712537" />
-      <entry key="S30" value="0.7161758223851127" />
-      <entry key="S60" value="1.4311208192756837" />
-      <entry key="M2" value="2.1081519353286007" />
-      <entry key="M5" value="3.028493410382159" />
-      <entry key="M10" value="3.7596169530304926" />
-      <entry key="M15" value="4.170335658557783" />
-      <entry key="M30" value="4.908651131733367" />
-      <entry key="H1" value="6.204533887708386" />
-      <entry key="H2" value="9.01002974836747" />
-      <entry key="H4" value="14.155664792504332" />
-      <entry key="D1" value="75.85004692307737" />
-      <entry key="W1" value="223.99047073452383" />
+      <entry key="MS100" value="3.025048951420959E-237" />
+      <entry key="MS500" value="4.9675984323878456E-48" />
+      <entry key="S2" value="1.4929202894754741E-12" />
+      <entry key="S5" value="1.8604356293888907E-5" />
+      <entry key="S10" value="0.004313276746732638" />
+      <entry key="S30" value="0.1627927011785764" />
+      <entry key="S60" value="0.4069588992081734" />
+      <entry key="M2" value="0.6972306222271292" />
+      <entry key="M5" value="1.3046515532706418" />
+      <entry key="M10" value="2.4502477856766607" />
+      <entry key="M15" value="3.68554495793252" />
+      <entry key="M30" value="6.50829779658732" />
+      <entry key="H1" value="9.283336113714572" />
+      <entry key="H2" value="11.44598031220335" />
+      <entry key="H4" value="14.281483422227934" />
+      <entry key="D1" value="67.1365487442318" />
+      <entry key="W1" value="226.9958760660649" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.5783440919526437" />
-      <entry key="MS500" value="0.8962666995694852" />
-      <entry key="S2" value="0.9739097653187977" />
-      <entry key="S5" value="1.102532758633844" />
-      <entry key="S10" value="1.7059101786221125" />
-      <entry key="S30" value="4.709897559724964" />
-      <entry key="S60" value="7.887155379107697" />
-      <entry key="M2" value="13.006194175987847" />
-      <entry key="M5" value="27.991155844429052" />
-      <entry key="M10" value="45.902704925145336" />
-      <entry key="M15" value="58.40109733958593" />
-      <entry key="M30" value="81.79401164931502" />
-      <entry key="H1" value="113.90530076410747" />
-      <entry key="H2" value="171.35400451087764" />
-      <entry key="H4" value="268.6868948876062" />
-      <entry key="D1" value="1168.3183556853303" />
-      <entry key="W1" value="3259.6114937071648" />
+      <entry key="MS100" value="6.415530511884418E-6" />
+      <entry key="MS500" value="0.0915059014409581" />
+      <entry key="S2" value="0.5990912495091018" />
+      <entry key="S5" value="1.6016789055021172" />
+      <entry key="S10" value="3.6724484778483752" />
+      <entry key="S30" value="10.750246512626555" />
+      <entry key="S60" value="17.218901937249882" />
+      <entry key="M2" value="23.564577332716386" />
+      <entry key="M5" value="32.56014850421204" />
+      <entry key="M10" value="43.1968791729007" />
+      <entry key="M15" value="53.87408175259672" />
+      <entry key="M30" value="82.47384818827818" />
+      <entry key="H1" value="117.30216232052328" />
+      <entry key="H2" value="149.20018811941515" />
+      <entry key="H4" value="198.86544951393373" />
+      <entry key="D1" value="1008.078855899128" />
+      <entry key="W1" value="3289.5240067587" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -118,49 +126,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.1007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T3_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T3_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T3_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T3_better.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pymunk_manim_collision.executor&quot;: &quot;Run&quot;,
-    &quot;Python.t.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/2026fall-cs101&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1007.executor": "Run",
+    "Python.1009.executor": "Run",
+    "Python.1010.executor": "Run",
+    "Python.1012.executor": "Run",
+    "Python.1013.executor": "Run",
+    "Python.T1.executor": "Run",
+    "Python.T2.executor": "Run",
+    "Python.T3.executor": "Run",
+    "Python.T3_1.executor": "Run",
+    "Python.T3_2.executor": "Run",
+    "Python.T3_3.executor": "Run",
+    "Python.T3_better.executor": "Run",
+    "Python.T4.executor": "Run",
+    "Python.T5.executor": "Run",
+    "Python.T5_brute.executor": "Run",
+    "Python.T6.executor": "Run",
+    "Python.hi.executor": "Run",
+    "Python.pymunk_manim_collision.executor": "Run",
+    "Python.t.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/2026fall-cs101",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\18900\Desktop\2026fall-cs101\assignment_7" />
