@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ee8f520-68ac-4233-a370-cfbd8d1b99ee" name="更改" comment="2026.10.30">
-      <change afterPath="$PROJECT_DIR$/assignment_A/T5_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment_A/T5_brute.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_A/T5.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_A/T5_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_P/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_P/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_P/.idea/assignment_P.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_P/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_P/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_P/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_P/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_P/manim_environment_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_P/pymunk_manim_collision.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_P/pymunk_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_P/renders/manim_environment_test.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_P/renders/multi_ball_collision.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
