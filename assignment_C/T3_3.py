@@ -1,8 +1,12 @@
+from functools import lru_cache
+
+
 class Solution:
     def numSquares(self, n: int) -> int:
         ps = [i * i for i in range(1, int(n ** 0.5) + 1)][::-1]
         ps_set = set(ps)
 
+        @lru_cache(maxsize=None)
         def divisible(n: int, count: int) -> bool:
             if count == 1:
                 return n in ps_set
